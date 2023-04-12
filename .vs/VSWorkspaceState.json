@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CmdEngine.Components",
+    "\\CmdEngine.Components\\UI",
+    "\\CmdEngine.Core",
+    "\\CmdEngine_OLD\\Core",
+    "\\CmdEngine_OLD\\Core\\Components",
+    "\\CmdEngine_OLD\\Core\\Data",
+    "\\CmdEngine_OLD\\Core\\Snake",
+    "\\CmdEngine_OLD\\Core\\Utilities"
+  ],
+  "SelectedNode": "\\CmdEngine.Core\\GameObject.cs",
+  "PreviewInSolutionExplorer": false
+}
