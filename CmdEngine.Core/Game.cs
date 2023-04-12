@@ -1,6 +1,6 @@
 ﻿using CmdEngine.Core.Components;
 using CmdEngine.Core.Rendering;
-using CmdEngine.Core.SceneManagement;
+using CmdEngine.Core.Scenes;
 using CmdEngine.Core.Utilities;
 using CmdEngine.Core.InputManagement;
 

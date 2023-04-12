@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace CmdEngine.Core.SceneManagement;
+﻿namespace CmdEngine.Core.Scenes;
 
 public class Scene
 {

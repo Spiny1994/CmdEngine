@@ -1,5 +1,4 @@
-﻿
-using CmdEngine.Core.Data;
+﻿using CmdEngine.Core.Data;
 
 namespace CmdEngine.Core.Rendering
 {

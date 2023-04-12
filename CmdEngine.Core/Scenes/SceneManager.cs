@@ -1,7 +1,7 @@
 ﻿using CmdEngine.Core.Components;
 using System.Diagnostics;
 
-namespace CmdEngine.Core.SceneManagement;
+namespace CmdEngine.Core.Scenes;
 
 public class SceneManager
 {

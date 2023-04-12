@@ -1,5 +1,5 @@
 ﻿using CmdEngine.Core.Data;
-using CmdEngine.Core.SceneManagement;
+using CmdEngine.Core.Scenes;
 
 namespace CmdEngine.Core.Components;
 

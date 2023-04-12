@@ -1,7 +1,6 @@
-﻿namespace CmdEngine.Core.Utilities
+﻿namespace CmdEngine.Core.Utilities;
+
+public class Time
 {
-    public class Time
-    {
-        public static float DeltaTime { get; set; }
-    }
+    public static float DeltaTime { get; set; }
 }
